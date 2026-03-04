@@ -1,3 +1,3 @@
-# Intorduction to Database final project
+# Intorduction to Database Systems final project
 2023 Fall Intro to Database Final Project  
 By professor 曾意儒
